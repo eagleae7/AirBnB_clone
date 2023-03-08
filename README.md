@@ -12,10 +12,13 @@
 # Access AirBnb directory: cd AirBnB_clone
 # Run hbnb(interactively): ./console and enter command
 # Run hbnb(non-interactively): echo "" | ./console.py
+
 # Description
 #This team project is part of alx Software Engineer program. It's the first step towards building a first full web application: an AirBnB clone. This first step consists of a custom command-line interface for data management,and the base classes for the storage of this data.
-# Tests
-# All the code is tested with the unittest module. The test for the classes are in the test_models folder.
-# Authors
-# Maurice Ekwunife - eagleae7
-# Orji Chioma Modesta - omah-hub
+
+## Tests
+- All the code is tested with the unittest module. The test for the classes are in the test_models folder.
+
+## Authors
+- Maurice Arinze Ekwunife - eagleae7
+- Orji Chioma Modesta - omah-hub
