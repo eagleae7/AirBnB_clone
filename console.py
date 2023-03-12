@@ -26,7 +26,7 @@ class HBNBCommand(cmd.Cmd):
         "Amenity": Amenity,
         "Place": Place,
         "Review": Review
-    }
+            }
 
     def do_nothing(self, arg):
         """ Does nothing """
